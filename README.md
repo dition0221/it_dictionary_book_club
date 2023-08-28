@@ -11,6 +11,7 @@
 - **23-08-25 : Day.1 / 책 구매**
 - **<a href="https://github.com/dition0221/it_dictionary_book_club/tree/main/day2_ep1-5" target="_blank">23-08-26 : Day.2 / ep.1 ~ 5</a>**
 - **<a href="https://github.com/dition0221/it_dictionary_book_club/tree/main/day3_ep6-10" target="_blank">23-08-27 : Day.3 / ep.6 ~ 10</a>**
+- **23-08-28 : Day.4 / 복습**
 
 ---
 
