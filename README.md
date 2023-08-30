@@ -13,6 +13,7 @@
 - **<a href="https://github.com/dition0221/it_dictionary_book_club/tree/main/day3_ep6-10" target="_blank">23-08-27 : Day.3 / ep.6 ~ 10</a>**
 - **23-08-28 : Day.4 / 복습**
 - **<a href="https://github.com/dition0221/it_dictionary_book_club/tree/main/day5_ep11-15" target="_blank">23-08-29 : Day.5 / ep.11 ~ 15</a>**
+- **<a href="https://github.com/dition0221/it_dictionary_book_club/tree/main/day6_ep16-21" target="_blank">23-08-30 : Day.6 / ep.16 ~ 21</a>**
 
 ---
 
